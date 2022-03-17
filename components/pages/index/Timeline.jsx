@@ -20,13 +20,6 @@ const Timeline = () => {
           Front-end developer at <Link href="netspot.solutions">Netspot Sulotions</Link>
         </ListItem>
       </List>
-      <Heading
-        as="h1"
-        fontSize={{ base: "24px", md: "30px", lg: "36px" }}
-        mb={3}
-      >
-        Timeline
-      </Heading>
       <Heading mt={10} mb={5} as="h2" size="md">
         2021
       </Heading>
