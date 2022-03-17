@@ -17,7 +17,7 @@ const Timeline = () => {
       <List spacing={18} fontSize="18">
         <ListItem>
           <ListIcon as={MdCheckCircle} color="green.500" />
-          Front-end developer at <Link href="netspot.solutions">Netspot Sulotions</Link>
+          Front-end developer at <Link href="https://netspot.solutions/">Netspot Sulotions</Link>
         </ListItem>
       </List>
       <Heading mt={10} mb={5} as="h2" size="md">
