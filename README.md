@@ -1,6 +1,6 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/meerbahadin/meera.dev)
 
-# Meera.dev
+# Meera.dev 
 
 My personal portfolio! built using Next.js
 
