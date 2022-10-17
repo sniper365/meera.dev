@@ -20,7 +20,7 @@ Create a `.env.local` file similar:
 
 
 ## Built Using
-
+ 
 - [Next.js](https://nextjs.org/)
 - [Vercel](https://vercel.com)
 - [AireTable](https://airtable.com/)
